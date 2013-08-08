@@ -1,0 +1,14 @@
+{
+  "name": "crc32",
+  "repo": "yields/crc32",
+  "description": "Cyclic redundancy check.",
+  "version": "0.0.1",
+  "keywords": ["crc32"],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": ["index.js"],
+  "development": {
+    "visionmedia/mocha": "*",
+    "component/assert": "*"
+  }
+}
