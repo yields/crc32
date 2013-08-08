@@ -11,7 +11,7 @@
 
 ## API
 
-
+### crc32(str)
 
 ## License
 
